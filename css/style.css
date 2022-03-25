@@ -13,3 +13,21 @@
     text-align: center;
     margin:  0 auto;
 }
+
+.information-page {
+    width: 50%;
+    margin: 0 auto;
+}
+
+ul {
+    list-style-type: disc;
+}
+
+.information-page-container {
+    
+
+}
+
+h2{
+    text-align: center;
+}
